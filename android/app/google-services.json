@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971327538396",
+    "project_id": "jun11-cbbe4",
+    "storage_bucket": "jun11-cbbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971327538396:android:43629ed34bb642c6756019",
+        "android_client_info": {
+          "package_name": "com.tadas_pareira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971327538396-5cjp2835e2uressuffvh845o2pje2ujh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNK_ETbS11mKQMbca8a8OQjpWFeoIStPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971327538396-5cjp2835e2uressuffvh845o2pje2ujh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
